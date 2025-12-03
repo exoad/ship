@@ -1,4 +1,4 @@
-# "Ship It!" DSL
+# Ship
 
 ## Overview
 
